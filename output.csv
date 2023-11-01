@@ -1,0 +1,1001 @@
+Scientist,Institute,Country,Rank,Field
+"Gr�tzel, Michael",Ecole Polytechnique F�d�rale de Lausanne,che,1,Enabling & Strategic Technologies
+"Willett, Walter C.",Harvard T.H. Chan School of Public Health,usa,2,Clinical Medicine
+"Wang, Zhong Lin",Georgia Institute of Technology,usa,3,Enabling & Strategic Technologies
+"Kessler, Ronald C.",Harvard Medical School,usa,4,Clinical Medicine
+"Kresse, Georg",Universit�t Wien,aut,5,Physics & Astronomy
+"Friston, Karl",University College London,gbr,6,Clinical Medicine
+"Witten, Edward",Institute for Advanced Studies,usa,7,Physics & Astronomy
+"Whitesides, George M.",Harvard Faculty of Arts and Sciences,usa,8,Chemistry
+"McEwen, Bruce S.",Rockefeller University,usa,9,Clinical Medicine
+"Barnes, Peter J.",National Heart and Lung Institute,gbr,10,Clinical Medicine
+"Altman, Douglas",University of Oxford,gbr,11,Clinical Medicine
+"Halliwell, Barry",NUS Yong Loo Lin School of Medicine,sgp,12,Biomedical Research
+"Karin, Michael",UC San Diego School of Medicine,usa,13,Biomedical Research
+"Yusuf, Salim",McMaster University,can,14,Clinical Medicine
+"Perdew, John P.",Temple University,usa,15,Physics & Astronomy
+"Semenza, Gregg L.",Johns Hopkins School of Medicine,usa,16,Biomedical Research
+"Folkman, Judah",Children's Hospital Boston,usa,17,Clinical Medicine
+"Ridker, Paul M.",Harvard Medical School,usa,18,Clinical Medicine
+"Langer, Robert",Massachusetts Institute of Technology,usa,19,Clinical Medicine
+"Akira, Shizuo","WPI Immunology Frontier Research Center, Osaka University",jpn,20,Clinical Medicine
+"Becke, Axel D.",Dalhousie University,can,21,Physics & Astronomy
+"Bandura, Albert",Stanford University,usa,22,Psychology & Cognitive Sciences
+"Libby, Peter",Harvard Medical School,usa,23,Clinical Medicine
+"Newman, M. E.J.","University of Michigan, Ann Arbor",usa,24,Physics & Astronomy
+"Selkoe, Dennis",Harvard Medical School,usa,25,Clinical Medicine
+"Dinarello, Charles A.",Radboud University Medical Center,nld,26,Clinical Medicine
+"Mattson, Mark P.",Johns Hopkins School of Medicine,usa,27,Clinical Medicine
+"Corma, Avelino",Consejo Superior de Investigaciones Cient�ficas,esp,28,Chemistry
+"Jain, Rakesh K.",Harvard Medical School,usa,29,Clinical Medicine
+"Zadeh, Lotfi A.","University of California, Berkeley",usa,30,Information & Communication Technologies
+"Hu, Frank B.",Harvard T.H. Chan School of Public Health,usa,31,Clinical Medicine
+"Ioannidis, John P.A.",Stanford University School of Medicine,usa,32,Clinical Medicine
+"Trost, Barry M.",Stanford University,usa,33,Chemistry
+"Kannel, William B.","National Heart, Lung, and Blood Institute (NHLBI)",usa,34,Clinical Medicine
+"Massague, Joan",Memorial Sloan-Kettering Cancer Center,usa,35,Biomedical Research
+"Grundy, Scott M.",UT Southwestern Medical Center,usa,36,Clinical Medicine
+"Wang, Joseph",Department of NanoEngineering,usa,37,Chemistry
+"Lander, Eric S.",Broad Institute,gbr,38,Biomedical Research
+"Kroemer, Guido",Institut de Cancerologie Gustave Roussy,fra,39,Clinical Medicine
+"Grimme, Stefan",Universit�t Bonn,deu,40,Chemistry
+"Alivisatos, A. Paul",Lawrence Berkeley National Laboratory,usa,41,Enabling & Strategic Technologies
+"Sheldrick, George M.",Georg-August-Universit�t G�ttingen,deu,42,Chemistry
+"Lieber, Charles M.",Harvard John A. Paulson School of Engineering and Applied Sciences,usa,43,Clinical Medicine
+"Reed, John C.",Sanford Burnham Prebys Medical Discovery Institute,usa,44,Clinical Medicine
+"Goodenough, J. B.",The University of Texas at Austin,usa,45,Enabling & Strategic Technologies
+"Bartel, David P.",Howard Hughes Medical Institute,usa,46,Biomedical Research
+"Braunwald, Eugene",Harvard Medical School,usa,47,Clinical Medicine
+"Nei, Masatoshi",Pennsylvania State University,usa,48,Biology
+"Jain, Anil",Michigan State University,usa,49,Information & Communication Technologies
+"Guyatt, Gordon",McMaster University,can,50,Clinical Medicine
+"Ferrara, Napoleone",Moores Cancer Center,usa,51,Clinical Medicine
+"Rosenberg, Steven A.",National Cancer Institute (NCI),usa,52,Clinical Medicine
+"Iijima, Sumio",Meijo University,jpn,53,Physics & Astronomy
+"Rutter, Michael",King's College London,gbr,54,Psychology & Cognitive Sciences
+"Holick, Michael F.",Boston University School of Medicine,usa,55,Clinical Medicine
+"Koonin, Eugene V.",National Center for Biotechnology Information (NCBI),usa,56,Biomedical Research
+"Hinton, Geoffrey",Google LLC,,57,Information & Communication Technologies
+"Clevers, Hans",Hubrecht Institute for Developmental Biology and Stem Cell Research - KNAW,nld,58,Biomedical Research
+"Laemmli, Ulrich K.",Universit� de Gen�ve,che,59,Biomedical Research
+"Weinberg, Robert A.",Massachusetts Institute of Technology,usa,60,Biomedical Research
+"Giovannucci, Edward L.",Harvard T.H. Chan School of Public Health,usa,61,Clinical Medicine
+"Geim, A. K.",The University of Manchester,gbr,62,Physics & Astronomy
+"Tilman, David","University of California, Santa Barbara",usa,63,Biology
+"Topol, Eric",Scripps Translational Science Institute,usa,64,Clinical Medicine
+"Barker, D. J.P.",Oregon Health & Science University,usa,65,Clinical Medicine
+"Kendler, Kenneth S.",Virginia Institute for Psychiatric and Behavioral Genetics,usa,66,Clinical Medicine
+"Colditz, Graham A.",Washington University School of Medicine in St. Louis,usa,67,Clinical Medicine
+"Carmeliet, Peter",KU Leuven,bel,68,Clinical Medicine
+"DeFronzo, Ralph",University of Texas Health Science Center at San Antonio,usa,69,Clinical Medicine
+"Matyjaszewski, Krzysztof",Carnegie Mellon University,usa,70,Chemistry
+"Koob, George F.",National Institute on Alcohol Abuse and Alcoholism (NIAAA),usa,71,Clinical Medicine
+"Lal, Rattan",The Ohio State University,usa,72,"Agriculture, Fisheries & Forestry"
+"Robertson, John",University of Cambridge,gbr,73,Physics & Astronomy
+"Diener, Ed",The University of Utah,usa,74,Psychology & Cognitive Sciences
+"Marmot, Michael",University College London,gbr,75,Clinical Medicine
+"Thompson, Craig B.",Memorial Sloan-Kettering Cancer Center,usa,76,Clinical Medicine
+"Baddeley, Alan D.",University of York,gbr,77,Psychology & Cognitive Sciences
+"Kamat, Prashant V.",University of Notre Dame,usa,78,Physics & Astronomy
+"Barab�si, Albert L�szl�",Northeastern University,usa,79,Physics & Astronomy
+"Donoho, David",Stanford University,usa,80,Information & Communication Technologies
+"Bengio, Yoshua",Montreal Institute for Learning Algorithms,can,81,Information & Communication Technologies
+"De Clercq, Erik",Rega Institute for Medical Research,bel,82,Chemistry
+"Gage, Fred H.",Salk Institute for Biological Studies,usa,83,Clinical Medicine
+"Aggarwal, Bharat B.",Inflammation Research Center,usa,84,Clinical Medicine
+"Anderson, Philip W.",Princeton University,usa,85,Physics & Astronomy
+"Heeger, Alan","University of California, Santa Barbara",usa,86,Physics & Astronomy
+"Xia, Younan",Georgia Institute of Technology,usa,87,Enabling & Strategic Technologies
+"Robbins, Trevor W.",Behavioural and Clinical Neuroscience Institute,gbr,88,Clinical Medicine
+"Ostrom, Elinor",Institute of Economic Affairs (IEA),,89,Economics & Business
+"Hartwig, John F.",Berkeley College of Chemistry,usa,90,Chemistry
+"Cummings, Jeffrey","University of Nevada, Las Vegas",usa,91,Clinical Medicine
+"Reiter, Russel J.",University of Texas Health Science Center at San Antonio,usa,92,Clinical Medicine
+"Mantovani, Alberto",Humanitas University,ita,93,Clinical Medicine
+"Lovley, Derek R.",University of Massachusetts Amherst,usa,94,Biomedical Research
+"Melton, L. Joseph",Mayo Clinic,usa,95,Clinical Medicine
+"Hanahan, Douglas",Ludwig Institute for Cancer Research Lausanne,che,96,Clinical Medicine
+"Weissleder, Ralph",Harvard Medical School,usa,97,Clinical Medicine
+"Smith, George Davey",University of Bristol,gbr,98,Physics & Astronomy
+"Buzs�ki, Gy�rgy",NYU Grossman School of Medicine,usa,99,Clinical Medicine
+"Nestler, Eric J.",Icahn School of Medicine at Mount Sinai,usa,100,Clinical Medicine
+"Vincent, Jean Louis",H�pital Erasme,bel,101,Clinical Medicine
+"Rubin, Donald B.",Fox School of Business,usa,102,Mathematics & Statistics
+"Ernst, Edzard",University of Exeter,gbr,103,Clinical Medicine
+"Frith, Chris D.",University College London,gbr,104,Clinical Medicine
+"Hunter, Tony",Salk Institute for Biological Studies,ita,105,Biomedical Research
+"Lehn, Jean Marie",Universit� de Strasbourg,fra,106,Chemistry
+"S�dhof, Thomas C.",Stanford University School of Medicine,usa,107,Biomedical Research
+"Petersen, Ronald",Mayo Clinic,usa,108,Clinical Medicine
+"Murray, Christopher J.L.",Institute for Health Metrics and Evaluation,usa,109,Clinical Medicine
+"Yager, Ronald",Machine Intelligence Institute,usa,110,Information & Communication Technologies
+"Green, Douglas R.",St. Jude Children's Research Hospital,usa,111,Biomedical Research
+"Jorgensen, William L.",Yale University,usa,112,Chemistry
+"Ryan, Richard M.",Australian Catholic University,aus,113,Psychology & Cognitive Sciences
+"Springer, Timothy A.",Harvard Medical School,,114,Biomedical Research
+"Mann, Matthias",Max-Planck-Institut f�r Biochemie,deu,115,Biomedical Research
+"Baumeister, Roy F.",The University of Queensland,aus,116,Psychology & Cognitive Sciences
+"Ingber, Donald E.",Harvard University,usa,117,Biomedical Research
+"Moher, David",Ottawa Hospital Research Institute,can,118,Clinical Medicine
+"Beal, M. Flint",Weill Cornell Medicine Feil Family Brain & Mind Research Institute,usa,119,Clinical Medicine
+"Esteller, Manel",Instituci� Catalana de Recerca i Estudis Avan�ats,esp,120,Clinical Medicine
+"Moffitt, Terrie E.",Duke University,usa,121,Clinical Medicine
+"LeDoux, Joseph E.",New York University,usa,122,Clinical Medicine
+"Ames, Bruce N.","University of California, Berkeley",usa,123,Biomedical Research
+"Reaven, Gerald",Stanford University,usa,124,Clinical Medicine
+"Maron, Barry J.",Lahey Hospital & Medical Center,usa,125,Clinical Medicine
+"Medzhitov, Ruslan",Yale School of Medicine,usa,126,Clinical Medicine
+"Prusiner, Stanley B.","University of California, San Francisco",usa,127,Biomedical Research
+"Chou, Kuo Chen",Gordon Life Science Institute,usa,128,Biomedical Research
+"Steinman, Ralph M.",Rockefeller University,usa,129,Clinical Medicine
+"Weinberg, Steven",The University of Texas at Austin,usa,130,Physics & Astronomy
+"Inoue, A.",Josai International University,jpn,131,Enabling & Strategic Technologies
+"Demirbas, Ayhan",King Abdulaziz University,sau,132,Enabling & Strategic Technologies
+"Ross, Russell",University of Washington School of Medicine,usa,133,Clinical Medicine
+"Bentler, P. M.","University of California, Los Angeles",usa,134,Mathematics & Statistics
+"Vanderbilt, D.",Rutgers University�New Brunswick,usa,135,Physics & Astronomy
+"de Gennes, Pierre Gilles",Coll�ge de France,fra,136,Physics & Astronomy
+"Pendry, J. B.",Imperial College London,gbr,137,Physics & Astronomy
+"Hallett, Mark",National Institute of Neurological Disorders and Stroke (NINDS),usa,138,Clinical Medicine
+"Hynes, Richard O.",Massachusetts Institute of Technology,usa,139,Biomedical Research
+"Schwartz, Joel",Harvard T.H. Chan School of Public Health,usa,140,Clinical Medicine
+"Mosmann, Tim R.",University of Rochester Medical Center,usa,141,Clinical Medicine
+"Zhu, Jian Kang",Chinese Academy of Sciences,chn,142,Biology
+"Burnstock, Geoffrey",University of Melbourne,aus,143,Clinical Medicine
+"Croce, Carlo M.",The Ohio State University Comprehensive Cancer Center,usa,144,Clinical Medicine
+"Spek, Anthony L.",Bijvoet Centre for Biomolecular Research,nld,145,Chemistry
+"Karplus, Martin",Universit� de Strasbourg,fra,146,Physics & Astronomy
+"Dai, Hongjie",Stanford BIO-X,usa,147,Enabling & Strategic Technologies
+"Higgins, Julian Pt",Bristol Medical School,gbr,148,Clinical Medicine
+"Ajayan, Pulickel M.",Rice University,usa,149,Enabling & Strategic Technologies
+"Tsien, Roger Y.","University of California, San Diego",usa,150,Biomedical Research
+"Novoselov, Kostya S.",National University of Singapore,sgp,151,Physics & Astronomy
+"McClements, David Julian",University of Massachusetts Amherst,usa,152,"Agriculture, Fisheries & Forestry"
+"Ruoslahti, Erkki",Sanford Burnham Prebys Medical Discovery Institute,usa,153,Biomedical Research
+"Jankovic, Joseph",Baylor College of Medicine,usa,154,Clinical Medicine
+"Fauci, Anthony S.",National Institute of Allergy and Infectious Diseases (NIAID),usa,155,Clinical Medicine
+"Beck, Aaron T.",University of Pennsylvania,usa,156,Clinical Medicine
+"Popkin, Barry",Carolina Population Center,usa,157,Biomedical Research
+"Snyder, Solomon H.",Johns Hopkins School of Medicine,usa,158,Clinical Medicine
+"Marsh, Herbert W.",Australian Catholic University,aus,159,Social Sciences
+"Weinberger, Daniel R.",Johns Hopkins School of Medicine,usa,160,Clinical Medicine
+"Gross, James J.",Stanford University,usa,161,Psychology & Cognitive Sciences
+"Mesulam, M. Marsel",Northwestern University Feinberg School of Medicine,usa,162,Clinical Medicine
+"Cantley, Lewis C.",Weill Cornell Medicine,usa,163,Biomedical Research
+"Woolf, Clifford J.",Children's Hospital Boston,usa,164,Clinical Medicine
+"Parkin, D. Maxwell",International Network for Cancer Treatment and Research (INCTR),gbr,165,Clinical Medicine
+"Guengerich, F. Peter",Vanderbilt University School of Medicine,usa,166,Biomedical Research
+"Baron-Cohen, S.",Autism Research Centre,gbr,167,Clinical Medicine
+"Raichle, Marc",Washington University School of Medicine in St. Louis,usa,168,Clinical Medicine
+"Ford, Earl S.",National Center for Chronic Disease Prevention and Health Promotion,usa,169,Clinical Medicine
+"Sies, Helmut",Leibniz Research Institute for Environmental Medicine,deu,170,Biomedical Research
+"Barrett-Connor, Elizabeth",Department of Family Medicine and Public Health,usa,171,Clinical Medicine
+"He, Ji Huan",Soochow University,chn,172,Engineering
+"Olson, Eric N.",UT Southwestern Medical Center,usa,173,Biomedical Research
+"Catterall, William A.",University of Washington,usa,174,Biomedical Research
+"Collins, Francis S.",National Human Genome Research Institute (NHGRI),usa,175,Clinical Medicine
+"Ajzen, Icek",University of Massachusetts Amherst,usa,176,Psychology & Cognitive Sciences
+"Levine, Arnold J.",Institute for Advanced Studies,usa,177,Biomedical Research
+"Greenland, Sander","University of California, Los Angeles",usa,178,Clinical Medicine
+"Vogelstein, Bert",Johns Hopkins School of Medicine,usa,179,Clinical Medicine
+"Evans, Ronald M.",Salk Institute for Biological Studies,usa,180,Biomedical Research
+"Forrest, Stephen R.","University of Michigan, Ann Arbor",usa,181,Physics & Astronomy
+"Smith, Stephen",University of Oxford Medical Sciences Division,gbr,182,Clinical Medicine
+"El-Serag, Hashem B.",Baylor College of Medicine,usa,183,Clinical Medicine
+"Haffner, Steven M.",University of Texas Health Science Center at San Antonio,usa,184,Clinical Medicine
+"Peppas, Nicholas A.",The University of Texas at Austin,usa,185,Chemistry
+"Nathan, Carl F.",Weill Cornell Medicine,usa,186,Clinical Medicine
+"M�ller, A. P.","Laboratoire �cologie, Syst�matique et �volution",fra,187,Biology
+"Logan, Bruce E.",Pennsylvania State University,usa,188,Enabling & Strategic Technologies
+"Egger, M.",Institute of Social and Preventive Medicine,che,189,Clinical Medicine
+"Xu, Zeshui",Business School of Sichuan University,chn,190,Information & Communication Technologies
+"Ware, John E.","John Ware Research Group, Inc.",usa,191,Clinical Medicine
+"Goldman-Rakic, Patricia S.",Yale School of Medicine,usa,192,Clinical Medicine
+"Corey, E. J.",Harvard Faculty of Arts and Sciences,usa,193,Chemistry
+"Sheldon, Roger A.","University of the Witwatersrand, Johannesburg",zaf,194,Chemistry
+"White, Nicholas J.",Nuffield Department of Medicine,gbr,195,Clinical Medicine
+"Green, Martin",UNSW Sydney,aus,196,Physics & Astronomy
+"Sapolsky, Robert M.",Stanford University,usa,197,Clinical Medicine
+"Moncada, Salvador","Faculty of Biology, Medicine and Health",gbr,198,Clinical Medicine
+"Davidson, Richard J.",University of Wisconsin-Madison,usa,199,Clinical Medicine
+"Torchilin, Vladimir P.",Northeastern University,usa,200,Clinical Medicine
+"Cohen, Philip",University of Dundee,gbr,201,Biomedical Research
+"Kahneman, Daniel",Princeton University,usa,202,Psychology & Cognitive Sciences
+"Morris, John",Washington University School of Medicine in St. Louis,usa,203,Clinical Medicine
+"Squire, Larry R.","University of California, San Diego",usa,204,Clinical Medicine
+"Calder, Philip C.",University Hospital Southampton NHS Foundation Trust,gbr,205,Biomedical Research
+"Felson, David T.",Boston University School of Medicine,usa,206,Clinical Medicine
+"Tarascon, Jean Marie",Coll�ge de France,fra,207,Enabling & Strategic Technologies
+"Lip, Gregory Y.H.",Aalborg University,dnk,208,Clinical Medicine
+"Hardy, John",UCL Queen Square Institute of Neurology,gbr,209,Clinical Medicine
+"Fr�chet, Jean M.J.","University of California, Berkeley",usa,210,Chemistry
+"Yang, Ziheng",University College London,gbr,211,Biology
+"Gordon, Siamon",Sir William Dunn School of Pathology,gbr,212,Clinical Medicine
+"Fridovich, Irwin",Duke University Medical Center,usa,213,Biomedical Research
+"Lakowicz, Joseph R.",University of Maryland School of Medicine,usa,214,Biomedical Research
+"May, Robert M.",Princeton University,usa,215,Clinical Medicine
+"Stampfer, Meir J.",Harvard T.H. Chan School of Public Health,usa,216,Clinical Medicine
+"Hardie, D. Grahame",University of Dundee,gbr,217,Biomedical Research
+"Truhlar, Donald G.",University of Minnesota Twin Cities,usa,218,Physics & Astronomy
+"Dobson, Christopher M.",University of Cambridge,gbr,219,Biomedical Research
+"Hotam�?l�gil, G�khan S.",Broad Institute,usa,220,Clinical Medicine
+"Tokura, Yoshinori",The University of Tokyo,jpn,221,Physics & Astronomy
+"Trinchieri, Giorgio",National Cancer Institute (NCI),usa,222,Clinical Medicine
+"Wallace, Douglas C.",The Children's Hospital of Philadelphia,usa,223,Biomedical Research
+"Harris, A. L.",University of Oxford Medical Sciences Division,gbr,224,Clinical Medicine
+"Gaston, K. J.",University of Exeter,gbr,225,Biology
+"Dresselhaus, Mildred S.",Massachusetts Institute of Technology,usa,226,Physics & Astronomy
+"Hancock, Robert E.W.",The University of British Columbia,can,227,Biomedical Research
+"Bork, Peer",European Molecular Biology Laboratory Heidelberg,deu,228,Biomedical Research
+"Schreiber, Stuart L.",Broad Institute,usa,229,Biomedical Research
+"Nowak, Martin A.",Harvard University,usa,230,Biomedical Research
+"Sampson, Hugh A.",Icahn School of Medicine at Mount Sinai,usa,231,Clinical Medicine
+"Berridge, Michael J.",The Babraham Institute,gbr,232,Biomedical Research
+"Blaser, Martin J.",Rutgers University�New Brunswick,usa,233,Biomedical Research
+"Maldacena, Juan",Institute for Advanced Studies,usa,234,Physics & Astronomy
+"Austin, Peter C.",Institute for Clinical Evaluative Sciences,can,235,Clinical Medicine
+"Pople, John A.",Carnegie Mellon University,usa,236,Physics & Astronomy
+"Kandel, Eric R.",Columbia University,usa,237,Clinical Medicine
+"Ganz, Tomas",David Geffen School of Medicine at UCLA,usa,238,Clinical Medicine
+"Israelachvili, Jacob","University of California, Santa Barbara",usa,239,Physics & Astronomy
+"Rakic, Pasko",Yale School of Medicine,usa,240,Clinical Medicine
+"Crabtree, Robert H.",Yale University,usa,241,Chemistry
+"Chrousos, George P.",Ethnik� ke Kapodistriak� Panepist�mio Athin�n,grc,242,Clinical Medicine
+"Acemoglu, Daron",Massachusetts Institute of Technology,usa,243,Economics & Business
+"Lefkowitz, Robert J.",Duke University Medical Center,usa,244,Biomedical Research
+"Baselga, Jos�",Memorial Sloan-Kettering Cancer Center,usa,245,Clinical Medicine
+"Lanier, Lewis L.","University of California, San Francisco",usa,246,Clinical Medicine
+"Serhan, Charles N.",Brigham and Women's Hospital,usa,247,Clinical Medicine
+"Rolls, Edmund T.",University of Oxford Medical Sciences Division,gbr,248,Clinical Medicine
+"Sandborn, William J.","University of California, San Diego",usa,249,Clinical Medicine
+"Fuster, Valent�n",Icahn School of Medicine at Mount Sinai,usa,250,Clinical Medicine
+"Morley, John E.",St. Louis University School of Medicine,usa,251,Clinical Medicine
+"Spiegelman, Bruce M.",Dana-Farber Cancer Institute,usa,252,Biomedical Research
+"Bard, Allen J.",The University of Texas at Austin,usa,253,Chemistry
+"Klein, Ronald",University of Wisconsin School of Medicine and Public Health,usa,254,Clinical Medicine
+"Krumholz, Harlan M.",Yale School of Medicine,usa,255,Clinical Medicine
+"Levey, Andrew S.",Tufts Medical Center,usa,256,Clinical Medicine
+"Manson, Jo Ann E.",Harvard Medical School,usa,257,Clinical Medicine
+"Neese, Frank",Max Planck Institute for Coal Research,deu,258,Chemistry
+"Sakaguchi, Shimon","WPI Immunology Frontier Research Center, Osaka University",jpn,259,Clinical Medicine
+"Meltzer, Herbert Y.",Northwestern University Feinberg School of Medicine,usa,260,Clinical Medicine
+"Biederman, Joseph",Massachusetts General Hospital,usa,261,Clinical Medicine
+"Posner, Michael I.",University of Oregon,usa,262,Clinical Medicine
+"Cand�s, Emmanuel",Stanford University,usa,263,Mathematics & Statistics
+"Kehlet, Henrik",Rigshospitalet,dnk,264,Clinical Medicine
+"Cohen, Jacob",Aging and Dementia Research Center,usa,265,Clinical Medicine
+"Mizushima, Noboru",Graduate School of Medicine,jpn,266,Biomedical Research
+"Hochberg, Marc",University of Maryland School of Medicine,usa,267,Clinical Medicine
+"Wolfe, Frederick",University of Kansas School of Medicine - Wichita,usa,268,Clinical Medicine
+"Teece, David J.",The University of Texas at Dallas,usa,269,Economics & Business
+"Schlessinger, Joseph",Yale School of Medicine,usa,270,Biomedical Research
+"Turner, R. C.",University of Oxford,gbr,271,Clinical Medicine
+"N�rskov, Jens K.",Technical University of Denmark,dnk,272,Physics & Astronomy
+"Nemeroff, Charles B.",The University of Texas at Austin,usa,273,Clinical Medicine
+"Holgate, Stephen","University of Southampton, Faculty of Medicine",gbr,274,Clinical Medicine
+"van der Aalst, Wil M.P.",Rheinisch-Westf�lische Technische Hochschule Aachen,deu,275,Information & Communication Technologies
+"Vitousek, Peter",Stanford University,usa,276,Biology
+"Talley, Nicholas J.","The University of Newcastle, Australia",aus,277,Clinical Medicine
+"Ferrari, A. C.",University of Cambridge,gbr,278,Enabling & Strategic Technologies
+"Tibshirani, Robert",Stanford University,usa,279,Mathematics & Statistics
+"Breiman, Leo","University of California, Berkeley",usa,280,Mathematics & Statistics
+"Jones, Peter A.",Van Andel Institute,usa,281,Clinical Medicine
+"Andreasen, Nancy C.",University of Iowa Carver College of Medicine,usa,282,Clinical Medicine
+"Yaghi, Omar M.",Berkeley College of Chemistry,usa,283,Chemistry
+"Weissman, Irving L.",Stanford University School of Medicine,usa,284,Clinical Medicine
+"Jaenisch, Rudolf",Whitehead Institute,usa,285,Biomedical Research
+"El-Sayed, Mostafa A.",Georgia Institute of Technology,usa,286,Physics & Astronomy
+"Chambon, Pierre",Coll�ge de France,fra,287,Biomedical Research
+"Nagata, Shigekazu",Osaka University,jpn,288,Biomedical Research
+"Bray, George A.",Pennington Biomedical Research Center,usa,289,Clinical Medicine
+"Schacter, Daniel L.",Harvard Faculty of Arts and Sciences,usa,290,Psychology & Cognitive Sciences
+"Dehaene, Stanislas",Coll�ge de France,fra,291,Clinical Medicine
+"Volkow, Nora D.",National Institute on Alcohol Abuse and Alcoholism (NIAAA),usa,292,Clinical Medicine
+"Sherr, Charles J.",St. Jude Children's Research Hospital,usa,293,Biomedical Research
+"Evans, Anthony G.","University of California, Santa Barbara",usa,294,Enabling & Strategic Technologies
+"Mancia, Giuseppe",Universit� degli Studi di Milano-Bicocca,ita,295,Clinical Medicine
+"Fidler, Isaiah J.",University of Texas MD Anderson Cancer Center,usa,296,Clinical Medicine
+"Pardoll, Drew M.",The Sidney Kimmel Comprehensive Cancer Center,usa,297,Clinical Medicine
+"Deb, Kalyanmoy",Michigan State University,usa,298,Information & Communication Technologies
+"Marcus, Rudolph A.",California Institute of Technology,usa,299,Physics & Astronomy
+"Davis, Mark E.",California Institute of Technology,usa,300,Chemistry
+"Bird, Adrian",The University of Edinburgh,gbr,301,Biomedical Research
+"Hawking, S. W.",University of Cambridge,gbr,302,Physics & Astronomy
+"Rice, James R.",Harvard University,usa,303,Engineering
+"Desiraju, Gautam R.",Indian Institute of Science,ind,304,Chemistry
+"Marsden, C. D.",Faculty of Life Sciences & Medicine,gbr,305,Clinical Medicine
+"McMurray, John J.V.",Glasgow Cardiovascular Research Centre,gbr,306,Clinical Medicine
+"Davis, Roger J.",University of Massachusetts Chan Medical School,usa,307,Biomedical Research
+"Baltimore, David",California Institute of Technology,usa,308,Biomedical Research
+"Dolan, Raymond J.",University College London,gbr,309,Clinical Medicine
+"Yang, Peidong",Lawrence Berkeley National Laboratory,usa,310,Enabling & Strategic Technologies
+"Grubbs, Robert H.",California Institute of Technology,usa,311,Chemistry
+"Jemal, Ahmedin",American Cancer Society,usa,312,Clinical Medicine
+"Reich, Peter B.",University of Minnesota Twin Cities,usa,313,Biology
+"Trenberth, Kevin E.",National Center for Atmospheric Research,usa,314,Earth & Environmental Sciences
+"Wilson, Peter W.F.",Emory University School of Medicine,usa,315,Clinical Medicine
+"Tversky, Amos",Stanford University,usa,316,Psychology & Cognitive Sciences
+"Deci, Edward L.",University of Rochester,usa,317,Psychology & Cognitive Sciences
+"F�rstner, Alois",Max Planck Institute for Coal Research,deu,318,Chemistry
+"Nathan, David M.",Harvard Medical School,usa,319,Clinical Medicine
+"Chua, Leon",Department of Electrical Engineering and Computer Sciences,usa,320,Engineering
+"Sallis, James F.","University of California, San Diego",usa,321,Public Health & Health Services
+"Gonzalez, Frank J.",National Cancer Institute (NCI),usa,322,Clinical Medicine
+"Deyo, Richard A.",University of Washington,usa,323,Clinical Medicine
+"Kohn, Walter","University of California, Santa Barbara",usa,324,Physics & Astronomy
+"Hench, L. L.",Florida Institute of Technology,usa,325,Enabling & Strategic Technologies
+"Lowe, David G.",Google LLC,usa,326,Information & Communication Technologies
+"Tomasello, Michael",Duke University,usa,327,Psychology & Cognitive Sciences
+"Dubey, J. P.",USDA ARS Beltsville Agricultural Research Center,usa,328,Biomedical Research
+"Fuchs, Elaine",Rockefeller University,usa,329,Biomedical Research
+"Kanis, John A.",Australian Catholic University,aus,330,Clinical Medicine
+"Rao, C. N.R.",Jawaharlal Nehru Centre for Advanced Scientific Research,ind,331,Physics & Astronomy
+"Hutchinson, John W.",Harvard John A. Paulson School of Engineering and Applied Sciences,usa,332,Engineering
+"Manthiram, Arumugam",The University of Texas at Austin,usa,333,Enabling & Strategic Technologies
+"Angell, C. Austen",Arizona State University,usa,334,Physics & Astronomy
+"Mirkin, Chad A.",Northwestern University,usa,335,Chemistry
+"Gupta, Vinod Kumar",King Abdulaziz University,sau,336,Chemistry
+"von Heijne, Gunnar",Stockholms universitet,swe,337,Biomedical Research
+"Cole, T. J.",UCL Great Ormond Street Institute of Child Health,gbr,338,Clinical Medicine
+"Flier, Jeffrey S.",Harvard Medical School,usa,339,Clinical Medicine
+"D'Agostino, Ralph B.",Boston University,usa,340,Clinical Medicine
+"Stanley, H. Eugene",Boston University,usa,341,Physics & Astronomy
+"Pardridge, William M.","University of California, Los Angeles",usa,342,Clinical Medicine
+"Benowitz, Neal",David Geffen School of Medicine at UCLA,usa,343,Clinical Medicine
+"Tour, James M.",Rice University,usa,344,Enabling & Strategic Technologies
+"Graham, David Y.",Baylor College of Medicine,usa,345,Clinical Medicine
+"Ackermann, Lutz",Georg-August-Universit�t G�ttingen,deu,346,Chemistry
+"Bazant, Zdenek P.",Northwestern University,usa,347,Engineering
+"Brunger, Axel T.",Stanford University,usa,348,Biomedical Research
+"Reetz, Manfred",Max Planck Institute for Coal Research,deu,349,Chemistry
+"Bax, Ad",National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),usa,350,Biomedical Research
+"Buckner, Randy L.",Harvard Faculty of Arts and Sciences,usa,351,Clinical Medicine
+"Avouris, Phaedon",IBM Thomas J. Watson Research Center,usa,352,Physics & Astronomy
+"Klionsky, Daniel J.","University of Michigan, Ann Arbor",usa,353,Biomedical Research
+"Simon, Herbert A.",Carnegie Mellon University,usa,354,Information & Communication Technologies
+"Raoult, Didier",Aix Marseille Universit�,fra,355,Biomedical Research
+"Nakamura, Shuji","University of California, Santa Barbara",usa,356,Physics & Astronomy
+"Cohen, Sheldon",Carnegie Mellon University,usa,357,Clinical Medicine
+"Carver, Charles S.",University of Miami,usa,358,Psychology & Cognitive Sciences
+"Pfaller, Michael A.",JMI Laboratories Incorporated,usa,359,Biomedical Research
+"Efron, Bradley",Stanford University School of Medicine,usa,360,Mathematics & Statistics
+"Schultz, Wolfram",University of Cambridge,gbr,361,Clinical Medicine
+"Gogotsi, Yury",Drexel University,usa,362,Enabling & Strategic Technologies
+"Baylin, Stephen B.",The Sidney Kimmel Comprehensive Cancer Center,usa,363,Clinical Medicine
+"Tefferi, Ayalew",Mayo Clinic,usa,364,Clinical Medicine
+"Dickson, Dennis W.","Mayo Clinic in Jacksonville, Florida",usa,365,Clinical Medicine
+"Walsh, Christopher T.",Stanford University,usa,366,Biomedical Research
+"Friedman, Scott L.",Icahn School of Medicine at Mount Sinai,usa,367,Clinical Medicine
+"Reddy, J. N.",Texas A&M University,usa,368,Engineering
+"Mayer, Richard E.","University of California, Santa Barbara",usa,369,Social Sciences
+"Caruso, Frank",University of Melbourne,aus,370,Enabling & Strategic Technologies
+"Uversky, Vladimir N.",Morsani College of Medicine,usa,371,Biomedical Research
+"Korsmeyer, Stanley",Dana-Farber Cancer Institute,usa,372,Clinical Medicine
+"O'Neill, Luke A.J.",Trinity College Dublin,irl,373,Clinical Medicine
+"Holst, Jens Juul",Faculty of Health and Medical Sciences,dnk,374,Clinical Medicine
+"Hall, Alan",Memorial Sloan-Kettering Cancer Center,usa,375,Biomedical Research
+"Kyle, Robert A.",Mayo Clinic,,376,Clinical Medicine
+"Kishimoto, Tadamitsu","WPI Immunology Frontier Research Center, Osaka University",jpn,377,Clinical Medicine
+"Ashby, Michael F.",University of Cambridge,gbr,378,Enabling & Strategic Technologies
+"Tersoff, Jerry",IBM Thomas J. Watson Research Center,usa,379,Physics & Astronomy
+"Hannon, Gregory J.",University of Cambridge,gbr,380,Biomedical Research
+"Cooper, Cyrus",University of Southampton,gbr,381,Clinical Medicine
+"Varki, Ajit",Department of Cellular & Molecular Medicine,usa,382,Biomedical Research
+"Schwartz, Shalom S.H.",Hebrew University of Jerusalem,isr,383,Psychology & Cognitive Sciences
+"Watson, David",University of Notre Dame,usa,384,Psychology & Cognitive Sciences
+"Rothwell, P.",University of Oxford Medical Sciences Division,gbr,385,Clinical Medicine
+"Drucker, Daniel J.",University of Toronto,can,386,Clinical Medicine
+"Dunning, Thom H.",University of Washington,usa,387,Physics & Astronomy
+"Bates, David W.",Harvard Medical School,usa,388,Clinical Medicine
+"Cella, David",Northwestern University Feinberg School of Medicine,usa,389,Clinical Medicine
+"Hughes, T. J.R.",The University of Texas at Austin,usa,390,Mathematics & Statistics
+"Stern, Yaakov",Vagelos College of Physicians and Surgeons,usa,391,Clinical Medicine
+"Faraone, Stephen",SUNY Upstate Medical University,usa,392,Clinical Medicine
+"Hortobagyi, Gabriel N.",University of Texas MD Anderson Cancer Center,usa,393,Clinical Medicine
+"Slovic, Paul",Decision Research,usa,394,Psychology & Cognitive Sciences
+"Bl�chl, P. E.",Technische Universit�t Clausthal,deu,395,Physics & Astronomy
+"Henikoff, Steven",Howard Hughes Medical Institute,usa,396,Biomedical Research
+"Verkman, Alan S.","University of California, San Francisco",usa,397,Biomedical Research
+"Aurbach, Doron",Bar-Ilan University,isr,398,Enabling & Strategic Technologies
+"Insel, Thomas",Stanford University School of Medicine,usa,399,Clinical Medicine
+"Caplan, A. I.",Case Western Reserve University,usa,400,Clinical Medicine
+"Flory, Paul J.",IBM Research - Almaden,usa,401,Chemistry
+"Bhushan, Bharat",The Ohio State University,usa,402,Physics & Astronomy
+"Snaith, Henry J.",University of Oxford,gbr,403,Enabling & Strategic Technologies
+"Mozaffarian, Dariush",Tufts University,usa,404,Clinical Medicine
+"Packer, Milton",Baylor Jack and Jane Hamilton Heart and Vascular Hospital,usa,405,Clinical Medicine
+"Carpenter, Stephen R.",University of Wisconsin-Madison,usa,406,Biology
+"Katon, Wayne J.",University of Washington,usa,407,Clinical Medicine
+"Kalluri, Raghu",University of Texas MD Anderson Cancer Center,usa,408,Clinical Medicine
+"Antman, Elliott",Harvard Medical School,usa,409,Clinical Medicine
+"Wishart, David",University of Alberta,can,410,Biomedical Research
+"Van De Walle, Chris G.","University of California, Santa Barbara",usa,411,Physics & Astronomy
+"Brus, Louis E.",Columbia University,usa,412,Physics & Astronomy
+"Springel, Volker",Max Planck Institute for Astrophysics,deu,413,Physics & Astronomy
+"Guarente, Leonard P.",Massachusetts Institute of Technology,usa,414,Biomedical Research
+"Tracey, Kevin J.",Donald and Barbara Zucker School of Medicine at Hofstra/Northwell,usa,415,Clinical Medicine
+"Levy, Daniel","National Heart, Lung, and Blood Institute (NHLBI)",usa,416,Clinical Medicine
+"F�rey, G�rard",Institut Universitaire de France,fra,417,Chemistry
+"Jorm, Anthony F.",Melbourne School of Population and Global Health,aus,418,Clinical Medicine
+"Steinberg, Laurence",Temple University,usa,419,Psychology & Cognitive Sciences
+"Nicolaides, Kypros",King's College Hospital,gbr,420,Clinical Medicine
+"Kleinberg, Jon",Cornell University,usa,421,Information & Communication Technologies
+"Ho, Yuh Shan",Asia University,twn,422,Earth & Environmental Sciences
+"Maier, Joachim",Max Planck Institute for Solid State Research,deu,423,Enabling & Strategic Technologies
+"Despr�s, Jean Pierre","Universit� Laval, Facult� de m�decine",can,424,Clinical Medicine
+"Nicolaou, K. C.",Rice University,usa,425,Chemistry
+"Quigley, Harry A.",Wilmer Eye Institute,usa,426,Clinical Medicine
+"Ruoff, Rodney S.",Ulsan National Institute of Science and Technology,kor,427,Enabling & Strategic Technologies
+"Van Genuchten, Martinus Th",Universiteit Utrecht,nld,428,Engineering
+"Yablonovitch, Eli",Department of Electrical Engineering and Computer Sciences,usa,429,Physics & Astronomy
+"Choi, Dennis W.",Renaissance School of Medicine at Stony Brook University,usa,430,Clinical Medicine
+"Sibai, Baha M.",University of Texas Medical School at Houston,usa,431,Clinical Medicine
+"Antonietti, Markus",Max-Planck-Institut f�r Kolloid- und Grenzfl�chenforschung,deu,432,Chemistry
+"Li, Chao Jun",Universit� McGill,can,433,Chemistry
+"Kroenke, Kurt",Indiana University School of Medicine,usa,434,Clinical Medicine
+"Kantarjian, Hagop",University of Texas MD Anderson Cancer Center,usa,435,Clinical Medicine
+"Meaney, Michael J.","A-Star, Singapore Institute for Clinical Sciences",sgp,436,Clinical Medicine
+"Prockop, D. J.",Tulane University Health Sciences Center,usa,437,Biomedical Research
+"Dietz, William H.",Milken Institute School of Public Health,usa,438,Clinical Medicine
+"Pentland, Alex",MIT Media Lab,usa,439,Information & Communication Technologies
+"Epstein, Jonathan I.",Johns Hopkins Medical Institutions,usa,440,Clinical Medicine
+"Bejan, A.",Duke University,usa,441,Engineering
+"Peto, Richard",University of Oxford Medical Sciences Division,gbr,442,Clinical Medicine
+"Beven, Keith",Lancaster Environment Centre,gbr,443,Engineering
+"Kazdin, Alan E.",Yale University,usa,444,Psychology & Cognitive Sciences
+"Linde, Andrei",Stanford University,usa,445,Physics & Astronomy
+"Lieberman, Jeffrey A.",Columbia University Irving Medical Center,usa,446,Clinical Medicine
+"Charney, Dennis S.",Icahn School of Medicine at Mount Sinai,usa,447,Clinical Medicine
+"Kanatzidis, Mercouri G.",Northwestern University,usa,448,Chemistry
+"Sachdev, Subir",Harvard University,usa,449,Physics & Astronomy
+"Bredas, Jean Luc",The University of Arizona,usa,450,Physics & Astronomy
+"Sheikholeslami, M.",Babol Noshirvani University of Technology,irn,451,Engineering
+"Orkin, Stuart H.",Harvard Medical School,usa,452,Biomedical Research
+"Binder, Kurt",Johannes Gutenberg-Universit�t Mainz,deu,453,Physics & Astronomy
+"Hoffmann, Roald",Cornell University,usa,454,Chemistry
+"Hennekens, Charles H.",Charles E. Schmidt College of Medicine,usa,455,Clinical Medicine
+"Clapham, David E.",Harvard Medical School,usa,456,Biomedical Research
+"Eddy, Sean R.",Howard Hughes Medical Institute,,457,Biomedical Research
+"Vasan, Ramachandran S.",Boston University School of Medicine,usa,458,Clinical Medicine
+"Pocock, Stuart J.",London School of Hygiene & Tropical Medicine,gbr,459,Clinical Medicine
+"Elimelech, Menachem",Yale University,usa,460,Earth & Environmental Sciences
+"Tuomilehto, Jaakko",King Abdulaziz University,sau,461,Clinical Medicine
+"Campisi, Judith",Buck Institute for Age Research,usa,462,Biomedical Research
+"Szabo, Csaba",Faculty of Science and Medicine,che,463,Clinical Medicine
+"Duman, Ronald S.",Yale School of Medicine,usa,464,Clinical Medicine
+"Beutler, Bruce",UT Southwestern Medical Center,usa,465,Clinical Medicine
+"Pedersen, Bente K.",K�benhavns Universitet,dnk,466,Clinical Medicine
+"Wittchen, Hans Ulrich",Technische Universit�t Dresden,deu,467,Clinical Medicine
+"Hansson, G�ran K.",Karolinska Institutet,swe,468,Clinical Medicine
+"Marks, Tobin J.",Northwestern University,usa,469,Chemistry
+"Lipton, Stuart A.",Scripps Research Institute,usa,470,Clinical Medicine
+"Goedert, Michel",The Medical Research Council Laboratory of Molecular Biology,gbr,471,Clinical Medicine
+"Lindquist, Susan",Howard Hughes Medical Institute,usa,472,Biomedical Research
+"Damasio, Antonio",University of Southern California,usa,473,Clinical Medicine
+"Hawker, Craig J.","University of California, Santa Barbara",usa,474,Chemistry
+"Porter, Michael E.",Harvard Business School,usa,475,Economics & Business
+"Rayner, Keith","University of California, San Diego",usa,476,Psychology & Cognitive Sciences
+"Williams, David R.",Harvard T.H. Chan School of Public Health,usa,477,Clinical Medicine
+"Adolphs, Ralph",California Institute of Technology,usa,478,Clinical Medicine
+"Livermore, David M.","University of East Anglia, Norwich Medical School",gbr,479,Biomedical Research
+"Mannucci, Pier Mannuccio",Ospedale Maggiore Policlinico Milano,ita,480,Clinical Medicine
+"Shannon, Robert D.",University of Colorado Boulder,usa,481,Chemistry
+"Brownlee, Michael",Albert Einstein College of Medicine of Yeshiva University,usa,482,Clinical Medicine
+"Cummings, Steven R.",California Pacific Medical Center,usa,483,Clinical Medicine
+"Bakker, Arnold B.",Erasmus Universiteit Rotterdam,nld,484,Economics & Business
+"Venkatesh, Viswanath","Virginia Tech, Pamplin College of Business",usa,485,Information & Communication Technologies
+"Matthews, Brian W.",University of Oregon,usa,486,Biomedical Research
+"Pawson, Tony",Mount Sinai Hospital of University of Toronto,can,487,Biomedical Research
+"Belytschko, T.",Northwestern University,usa,488,Mathematics & Statistics
+"Fersht, Alan R.",The Medical Research Council Laboratory of Molecular Biology,gbr,489,Biomedical Research
+"Berner, Robert A.",Yale University,usa,490,Earth & Environmental Sciences
+"Crutzen, P. J.",Max Planck Institute for Chemistry,deu,491,Earth & Environmental Sciences
+"Liotta, Lance",George Mason University - Science and Technology Campus,usa,492,Clinical Medicine
+"Heckman, James J.",The University of Chicago,,493,Economics & Business
+"Higgins, E. Tory",Columbia University,usa,494,Psychology & Cognitive Sciences
+"Kaufman, Randal J.",Sanford Burnham Prebys Medical Discovery Institute,usa,495,Biomedical Research
+"Zhao, Dongyuan",Fudan University,chn,496,Enabling & Strategic Technologies
+"Di Marzo, Vincenzo",Universit� Laval,can,497,Clinical Medicine
+"La Vecchia, Carlo",Universit� degli Studi di Milano,ita,498,Clinical Medicine
+"Furnham, A.",Handelsh�yskolen BI,nor,499,Psychology & Cognitive Sciences
+"Califf, Robert",Verily Life Sciences LLC,usa,500,Clinical Medicine
+"Goldberg, Alfred L.",Harvard Medical School,usa,501,Biomedical Research
+"Herrmann, Wolfgang A.",Technical University of Munich,deu,502,Chemistry
+"Blair, Steven N.",University of South Carolina,usa,503,Clinical Medicine
+"Willner, Itamar",Hebrew University of Jerusalem,isr,504,Chemistry
+"Barney, Jay Brian",The University of Utah,usa,505,Economics & Business
+"Safe, Stephen",Texas A&M College of Veterinary Medicine & Biomedical Sciences,usa,506,Clinical Medicine
+"Remuzzi, G.",Istituto di Ricerche Farmacologiche Mario Negri,ita,507,Clinical Medicine
+"Goldsmith, Andrea",Princeton University,usa,508,Information & Communication Technologies
+"Zunger, A.",University of Colorado Boulder,usa,509,Physics & Astronomy
+"Goadsby, Peter J.",David Geffen School of Medicine at UCLA,usa,510,Clinical Medicine
+"Yates, John R.",Scripps Research Institute,usa,511,Biomedical Research
+"McCrae, Robert R.",University of Gloucester,usa,512,Psychology & Cognitive Sciences
+"Kappe, C. Oliver","Universit�t Graz, Institut f�r Chemie",aut,513,Chemistry
+"Yang, Xin she",Middlesex University,gbr,514,Information & Communication Technologies
+"Zimmet, Paul","Faculty of Medicine, Nursing and Health Sciences",aus,515,Clinical Medicine
+"Kimura, Motoo",National Institute of Genetics Mishima,jpn,516,Biomedical Research
+"Fletcher, Christopher D.M.",Brigham and Women's Hospital,usa,517,Clinical Medicine
+"Sternberg, Robert J.",Cornell University,usa,518,Psychology & Cognitive Sciences
+"Hannun, Yusuf A.",Stony Brook University,usa,519,Biomedical Research
+"Delmas, P.",Inserm,fra,520,Clinical Medicine
+"Kaelin, William G.",Harvard Medical School,usa,521,Clinical Medicine
+"Noyori, Ryoji",Nagoya University,jpn,522,Chemistry
+"Fama, Eugene F.",The University of Chicago Booth School of Business,usa,523,Economics & Business
+"Schrock, Richard R.",Massachusetts Institute of Technology,usa,524,Chemistry
+"Salthouse, Timothy A.",University of Virginia,usa,525,Psychology & Cognitive Sciences
+"Schmidhuber, J�rgen",IDSIA Dalle Molle Institute for Artificial Intelligence,che,526,Information & Communication Technologies
+"Lieb, Elliott H.",Princeton University,usa,527,Physics & Astronomy
+"Schapira, Anthony H.V.",UCL Queen Square Institute of Neurology,gbr,528,Clinical Medicine
+"Shleifer, Andrei",Harvard University,usa,529,Economics & Business
+"Warshel, Arieh",University of Southern California,usa,530,Biomedical Research
+"Shine, Richard",Macquarie University,aus,531,Biology
+"Scott, J. F.",University of St Andrews,gbr,532,Physics & Astronomy
+"Harris, William H.",Massachusetts General Hospital,usa,533,Clinical Medicine
+"Kouzarides, Tony",Wellcome Trust/ Cancer Research UK Gurdon Institute,gbr,534,Biomedical Research
+"Aebersold, Ruedi",ETH Z�rich,che,535,Biomedical Research
+"Shannon, Claude E.",Massachusetts Institute of Technology,usa,536,Information & Communication Technologies
+"Mann, Stephen",University of Bristol,gbr,537,Enabling & Strategic Technologies
+"Kollef, Marin H.",Washington University School of Medicine in St. Louis,usa,538,Clinical Medicine
+"Lassmann, Hans",Zentrum f�r Hirnforschung Medizinische Universit�t Wien,aut,539,Clinical Medicine
+"Laakso, Markku",It�-Suomen yliopisto,fin,540,Clinical Medicine
+"Fisher, Bernard","NSABP Foundation, Inc.",usa,541,Clinical Medicine
+"Wang, Lihong V.",California Institute of Technology,usa,542,Clinical Medicine
+"Weissman, Myrna",Vagelos College of Physicians and Surgeons,usa,543,Clinical Medicine
+"Haruta, Masatake",Tokyo Metropolitan University,jpn,544,Chemistry
+"Duncan, John S.",UCL Queen Square Institute of Neurology,gbr,545,Clinical Medicine
+"Chapin, F. Stuart",University of Alaska Fairbanks,usa,546,Biology
+"McKenzie, Dan",Bullard Laboratories,gbr,547,Earth & Environmental Sciences
+"Elledge, Stephen J.",Harvard Medical School,usa,548,Biomedical Research
+"Devereux, Richard",Weill Cornell Medicine,usa,549,Clinical Medicine
+"Strachan, David P.","St George�s, University of London",gbr,550,Clinical Medicine
+"Nikaido, Hiroshi","University of California, Berkeley",usa,551,Biomedical Research
+"Kivshar, Yuri S.",The Australian National University,aus,552,Physics & Astronomy
+"Saper, Clifford B.",Harvard Medical School,usa,553,Clinical Medicine
+"Shulman, Gerald I.",Yale School of Medicine,usa,554,Clinical Medicine
+"Kobayashi, Shu",The University of Tokyo,jpn,555,Chemistry
+"Camilleri, Michael","Clinical Enteric Neuroscience Translational and Epidemiological Research, Mayo Clinic",usa,556,Clinical Medicine
+"Duarte, Carlos M.",King Abdullah University of Science and Technology,sau,557,Biology
+"Heaney, Robert P.",Creighton University,usa,558,Clinical Medicine
+"Mallat, St�phane",Coll�ge de France,fra,559,Information & Communication Technologies
+"Emanuel, Kerry",Massachusetts Institute of Technology,usa,560,Earth & Environmental Sciences
+"Edgar, Robert C.","GigaGen, Inc.",usa,561,Biomedical Research
+"Kahn, C. Ronald",Harvard Medical School,usa,562,Biomedical Research
+"van der Heijde, Desir�e",Leids Universitair Medisch Centrum,nld,563,Clinical Medicine
+"Wilczek, Frank",Shanghai Jiao Tong University,chn,564,Physics & Astronomy
+"Lynch, Michael",Arizona State University,usa,565,Biomedical Research
+"Felsenstein, Joseph",University of Washington,usa,566,Biology
+"Kalivas, Peter W.",Medical University of South Carolina,usa,567,Clinical Medicine
+"Denning, David W.","Faculty of Biology, Medicine and Health",gbr,568,Biomedical Research
+"Gelman, Andrew",Columbia University,usa,569,Mathematics & Statistics
+"Folsom, Aaron R.",School of Public Health,usa,570,Clinical Medicine
+"Loscalzo, Joseph",Brigham and Women's Hospital,usa,571,Clinical Medicine
+"Dincer, Ibrahim",Ontario Tech University,can,572,Enabling & Strategic Technologies
+"McGaugh, James L.","University of California, Irvine",usa,573,Clinical Medicine
+"Weiner, Howard L.",Harvard Medical School,usa,574,Clinical Medicine
+"Fredrickson, Barbara L.",The University of North Carolina at Chapel Hill,usa,575,Psychology & Cognitive Sciences
+"Jack, Clifford R.",Mayo Clinic,usa,576,Clinical Medicine
+"Seiberg, Nathan",Institute for Advanced Studies,usa,577,Physics & Astronomy
+"Zahra, Shaker A.",Carlson School of Management,usa,578,Economics & Business
+"Bagozzi, Richard P.",Stephen M. Ross School of Business,usa,579,Economics & Business
+"Atkinson, Roger","University of California, Riverside",usa,580,Physics & Astronomy
+"Caspi, Avshalom",Duke University,usa,581,Clinical Medicine
+"Blackburn, Elizabeth H.","University of California, San Francisco",usa,582,Biomedical Research
+"Rutgeerts, Paul",KU Leuven� University Hospital Leuven,bel,583,Clinical Medicine
+"Bao, Zhenan",Stanford University,usa,584,Enabling & Strategic Technologies
+"Iadecola, Costantino",Weill Cornell Medicine Feil Family Brain & Mind Research Institute,usa,585,Clinical Medicine
+"Clutton-Brock, Tim H.",University of Cambridge,gbr,586,Biology
+"Travis, William D.",Memorial Sloan-Kettering Cancer Center,,587,Clinical Medicine
+"Kollman, Peter A.","University of California, San Francisco",usa,588,Chemistry
+"Rogers, John A.",Northwestern University,usa,589,Enabling & Strategic Technologies
+"Slatkin, Montgomery","University of California, Berkeley",usa,590,Biomedical Research
+"Akagi, Hirofumi",Tokyo Institute of Technology,jpn,591,Engineering
+"Heldin, Carl Henrik",Uppsala Universitet,swe,592,Biomedical Research
+"Salzberg, Steven L.",Johns Hopkins University,usa,593,Biomedical Research
+"Lewis, Nathan S.",California Institute of Technology,usa,594,Physics & Astronomy
+"Eccles, Jacquelynne S.","University of California, Irvine",usa,595,Psychology & Cognitive Sciences
+"Kupfer, David J.",University of Pittsburgh School of Medicine,usa,596,Clinical Medicine
+"Stamatakis, Alexandros",Heidelberg Institute for Theoretical Studies (HITS GmbH),deu,597,Information & Communication Technologies
+"Lande, Russell",Norges Teknisk-Naturvitenskapelige Universitet,nor,598,Biology
+"Berridge, Kent C.","University of Michigan, Ann Arbor",usa,599,Clinical Medicine
+"Levin, Simon A.",Princeton University,usa,600,Biology
+"Ricklefs, Robert E.","University of Missouri-St. Louis, Department of Biology",usa,601,Biology
+"Matsuzawa, Yuji",Sumitomo Hospital,jpn,602,Clinical Medicine
+"Finkel, Toren",University of Pittsburgh Medical Center,usa,603,Biomedical Research
+"Feringa, B. L.",Stratingh Institute for Chemistry,nld,604,Chemistry
+"Stadtman, Earl R.","National Heart, Lung, and Blood Institute (NHLBI)",usa,605,Biomedical Research
+"Barkley, Russell A.",VCU School of Medicine,usa,606,Clinical Medicine
+"Schleyer, Paul Von R.",University of Georgia,usa,607,Chemistry
+"Kuller, Lew",University of Pittsburgh,usa,608,Clinical Medicine
+"Vane, John R.",Barts and The London School of Medicine and Dentistry,gbr,609,Clinical Medicine
+"Rosendaal, Frits R.",Leids Universitair Medisch Centrum,nld,610,Clinical Medicine
+"Grant, Bridget F.",National Institute on Alcohol Abuse and Alcoholism (NIAAA),usa,611,Public Health & Health Services
+"Langmuir, Irving",GE Global Research,usa,612,Physics & Astronomy
+"Barone, Vincenzo",Scuola Normale Superiore di Pisa,ita,613,Physics & Astronomy
+"Palmiter, Richard D.",University of Washington,usa,614,Biomedical Research
+"Webster, Robert G.",St. Jude Children's Research Hospital,usa,615,Biomedical Research
+"Holsboer, Florian",Max Planck Institute of Psychiatry,deu,616,Clinical Medicine
+"Lane, David P.","Agency for Science, Technology and Research, Singapore",sgp,617,Clinical Medicine
+"Leung, Donald Y.M.",National Jewish Health,usa,618,Clinical Medicine
+"Malenka, Robert",Stanford University School of Medicine,usa,619,Clinical Medicine
+"Black, Robert E.",Johns Hopkins Bloomberg School of Public Health,usa,620,Clinical Medicine
+"Coey, J. M.D.",Trinity College Dublin,irl,621,Physics & Astronomy
+"Martin, Charles R.",University of Florida,usa,622,Enabling & Strategic Technologies
+"Kawachi, Ichiro",Harvard T.H. Chan School of Public Health,usa,623,Clinical Medicine
+"Stiglitz, Joseph E.",Columbia University,usa,624,Economics & Business
+"L�scher, Thomas F.",Royal Brompton & Harefield NHS Foundation Trust,gbr,625,Clinical Medicine
+"Werb, Zena","University of California, San Francisco",usa,626,Biomedical Research
+"Thase, Michael E.",VA Medical Center,usa,627,Clinical Medicine
+"Serruys, Patrick W.",University of Galway,irl,628,Clinical Medicine
+"K�rner, Christian",Universitat Basel,che,629,Biology
+"Cao, Jinde",Southeast University,chn,630,Information & Communication Technologies
+"Anderson, Kenneth",Harvard Medical School,usa,631,Clinical Medicine
+"Petri, Michelle",Johns Hopkins School of Medicine,usa,632,Clinical Medicine
+"Shamir, Adi",Weizmann Institute of Science Israel,isr,633,Information & Communication Technologies
+"Seligman, Martin E.P.",University of Pennsylvania,usa,634,Psychology & Cognitive Sciences
+"Folke, Carl",Kungl. Vetenskapsakademien,swe,635,Biology
+"Singer, Wolf",Max Planck Institute for Brain Research,deu,636,Clinical Medicine
+"Brenner, Hermann",German Cancer Research Center,deu,637,Clinical Medicine
+"Bouchard, Claude",Pennington Biomedical Research Center,usa,638,Clinical Medicine
+"Blaabjerg, Frede",Aalborg University,dnk,639,Engineering
+"Shahidi, Fereidoon",Memorial University of Newfoundland,can,640,"Agriculture, Fisheries & Forestry"
+"Maes, Michael",Medical University of Plovdiv,bgr,641,Clinical Medicine
+"Krieger, Nancy",Harvard T.H. Chan School of Public Health,usa,642,Public Health & Health Services
+"Morris, Richard G.M.",Edinburgh Medical School,gbr,643,Clinical Medicine
+"Ridley, Anne J.",University of Bristol,gbr,644,Biomedical Research
+"CULLEN, BRYAN R.",Duke University Medical Center,usa,645,Biomedical Research
+"Steptoe, Andrew",University College London,gbr,646,Clinical Medicine
+"Lipton, Richard B.",Albert Einstein College of Medicine of Yeshiva University,usa,647,Clinical Medicine
+"Posada, David",Universidade de Vigo,esp,648,Biology
+"Pfurtscheller, Gert",Technische Universitat Graz,aut,649,Clinical Medicine
+"Beutler, Ernest",Scripps Research Institute,usa,650,Clinical Medicine
+"Simberloff, Daniel","The University of Tennessee, Knoxville",usa,651,Biology
+"Breslau, N.",Michigan State University,usa,652,Clinical Medicine
+"Hanski, Ilkka",Helsingin Yliopisto,fin,653,Biology
+"Darnell, James E.",Rockefeller University,usa,654,Biomedical Research
+"Wardle, David A.",Asian School of the Environment,sgp,655,Biology
+"Cannon, Christopher P.",Harvard Medical School,usa,656,Clinical Medicine
+"Fonarow, Gregg C.",David Geffen School of Medicine at UCLA,usa,657,Clinical Medicine
+"Steriade, Mircea","Universit� Laval, Facult� de m�decine",can,658,Clinical Medicine
+"Jordan, Michael I.","University of California, Berkeley",usa,659,Information & Communication Technologies
+"Ransohoff, Richard R.",Third Rock Ventures,usa,660,Clinical Medicine
+"Wazwaz, Abdul Majid",Saint Xavier University,usa,661,Mathematics & Statistics
+"Wynn, Thomas A.",National Institute of Allergy and Infectious Diseases (NIAID),usa,662,Clinical Medicine
+"Risch, Neil","University of California, San Francisco",usa,663,Biomedical Research
+"Ignarro, Louis J.",David Geffen School of Medicine at UCLA,usa,664,Clinical Medicine
+"Belsky, Jay","University of California, Davis",usa,665,Psychology & Cognitive Sciences
+"Farrugia, Louis J.",University of Glasgow,gbr,666,Chemistry
+"Mak, Tak W.",University of Toronto,can,667,Clinical Medicine
+"Dill, Ken",Stony Brook University,usa,668,Physics & Astronomy
+"Cacioppo, John T.",Center for Cognitive and Social Neuroscience,usa,669,Psychology & Cognitive Sciences
+"Kaufmann, Stefan H.E.",Max Planck Institute for Infection Biology,deu,670,Clinical Medicine
+"Bers, Donald M.","University of California, Davis",usa,671,Clinical Medicine
+"Thun, Michael J.",American Cancer Society,usa,672,Clinical Medicine
+"Hopfield, John",Princeton University,,673,Physics & Astronomy
+"Pfeffer, Marc A.",Harvard Medical School,usa,674,Clinical Medicine
+"Pui, Ching Hon",St. Jude Children's Research Hospital,usa,675,Clinical Medicine
+"Scuseria, Gustavo E.",Rice University,usa,676,Physics & Astronomy
+"Epstein, Franklin H.",Harvard Medical School,usa,677,Clinical Medicine
+"Jones, Ronald N.",JMI Laboratories Incorporated,usa,678,Biomedical Research
+"Portes, Alejandro",Princeton University,usa,679,Social Sciences
+"Dai, Liming",UNSW Sydney,aus,680,Enabling & Strategic Technologies
+"Seebach, Dieter",ETH Z�rich,che,681,Chemistry
+"Smyth, Gordon K.",Walter and Eliza Hall Institute of Medical Research,aus,682,Biomedical Research
+"Chance, Britton",University of Pennsylvania,usa,683,Biomedical Research
+"Camerer, Colin F.",California Institute of Technology,usa,684,Economics & Business
+"Marik, Paul E.",Front Line Critical Care Consortium (FLCCC.org),usa,685,Clinical Medicine
+"Esmon, Charles T.",Oklahoma Medical Research Foundation,usa,686,Clinical Medicine
+"Dzau, Victor J.",National Academy of Medicine,usa,687,Clinical Medicine
+"Cuzick, Jack M.",Barts and The London School of Medicine and Dentistry,gbr,688,Clinical Medicine
+"Massey, Douglas S.",Princeton University,usa,689,Social Sciences
+"Maeda, Hiroshi",BioDynamics Research Foundation,jpn,690,Clinical Medicine
+"Pearce, J. A.",Cardiff University,gbr,691,Earth & Environmental Sciences
+"Loewenstein, George",Carnegie Mellon University,usa,692,Economics & Business
+"Hell, Stefan W.",Max Planck Institute for Medical Research,deu,693,Physics & Astronomy
+"Nolen-Hoeksema, Susan",Yale University,usa,694,Psychology & Cognitive Sciences
+"Melzack, Ronald",Universit� McGill,can,695,Clinical Medicine
+"Hashmi, A. Stephen K.",Universit�t Heidelberg,deu,696,Chemistry
+"Maier, Stefan A.",Imperial College London,gbr,697,Enabling & Strategic Technologies
+"Lanzavecchia, Antonio","Vir Biotechnology, Inc.",che,698,Clinical Medicine
+"Fava, Maurizio",Harvard Medical School,usa,699,Clinical Medicine
+"Llovet, Josep M.",Icahn School of Medicine at Mount Sinai,usa,700,Clinical Medicine
+"Levine, Beth",UT Southwestern Medical Center,usa,701,Biomedical Research
+"Glass, Christopher K.",Department of Cellular & Molecular Medicine,usa,702,Biomedical Research
+"Bollen, Kenneth A.",The University of North Carolina at Chapel Hill,usa,703,Mathematics & Statistics
+"Yki-J�rvinen, Hannele",Helsingin Yliopisto,fin,704,Clinical Medicine
+"Bellomo, Rinaldo",University of Melbourne,aus,705,Clinical Medicine
+"Jonas, Jost B.",Universit�t Heidelberg,deu,706,Clinical Medicine
+"Starzl, Thomas E.",University of Pittsburgh Medical Center,usa,707,Clinical Medicine
+"Kunkel, Thomas A.",National Institute of Environmental Health Sciences (NIEHS),usa,708,Biomedical Research
+"Pumera, Martin",China Medical University Hospital,twn,709,Chemistry
+"Li, Heng",Dana-Farber Cancer Institute,usa,710,Biomedical Research
+"Eichenbaum, Howard",Stony Brook University,usa,711,Clinical Medicine
+"Peng, Fang Z.",Florida State University,usa,712,Engineering
+"Lakatta, Edward G.",National Institute on Aging (NIA),usa,713,Clinical Medicine
+"Wise, Roy A.",Harvard University,usa,714,Clinical Medicine
+"Cloninger, C. Robert",Washington University School of Medicine in St. Louis,usa,715,Clinical Medicine
+"Boyd, Robert W.",University of Ottawa,can,716,Enabling & Strategic Technologies
+"Feinberg, Andrew P.",Johns Hopkins School of Medicine,usa,717,Clinical Medicine
+"Stamler, Jonathan S.",CASE School of Medicine,usa,718,Biomedical Research
+"Butcher, Eugene C.",VA Palo Alto Health Care System,usa,719,Clinical Medicine
+"Akyildiz, Ian F.",Truva Inc.,usa,720,Information & Communication Technologies
+"Swanson, Larry W.",University of Southern California,usa,721,Clinical Medicine
+"Krebs, Frederik C.",Elitescience,dnk,722,Physics & Astronomy
+"Somorjai, Gabor A.",Lawrence Berkeley National Laboratory,usa,723,Physics & Astronomy
+"Thrun, Sebastian",Stanford University,usa,724,Engineering
+"Thomson, James",Morgridge Institute for Research,usa,725,Biomedical Research
+"Pommier, Yves",National Cancer Institute (NCI),usa,726,Biomedical Research
+"Lang, Anthony E.",Toronto Western Hospital University of Toronto,can,727,Clinical Medicine
+"Ritchie, Robert O.","University of California, Berkeley",usa,728,Enabling & Strategic Technologies
+"Henrissat, Bernard",Aix Marseille Universit�,fra,729,Biomedical Research
+"Rajkumar, S. Vincent",Mayo Clinic,usa,730,Clinical Medicine
+"Lee, Virginia M.Y.",University of Pennsylvania Perelman School of Medicine,usa,731,Clinical Medicine
+"Brown, James H.",The University of New Mexico,usa,732,Biology
+"Ramakrishna, Seeram",National University of Singapore,sgp,733,Enabling & Strategic Technologies
+"Helbing, Dirk",ETH Z�rich,che,734,Physics & Astronomy
+"Cleland, J. G.F.",University of Glasgow,gbr,735,Clinical Medicine
+"Cicchetti, Dante",University of Minnesota Twin Cities,usa,736,Psychology & Cognitive Sciences
+"Downward, Julian",The Francis Crick Institute,gbr,737,Biomedical Research
+"Hirsh, Jack",McMaster University,can,738,Clinical Medicine
+"Ponting, Chris P.",The University of Edinburgh,gbr,739,Biomedical Research
+"Harris, Curtis C.",National Cancer Institute (NCI),usa,740,Clinical Medicine
+"Woese, Carl R.",University of Illinois Urbana-Champaign,usa,741,Biomedical Research
+"Simon, Richard",R Simon Consulting,usa,742,Clinical Medicine
+"Druker, Brian",Oregon Health & Science University,usa,743,Clinical Medicine
+"Sharp, Phillip A.",Massachusetts Institute of Technology,usa,744,Biomedical Research
+"Bader, Richard F.W.",McMaster University,can,745,Physics & Astronomy
+"Houk, Kendall N.","University of California, Los Angeles",usa,746,Chemistry
+"Taylor, Shelley E.","University of California, Los Angeles",usa,747,Psychology & Cognitive Sciences
+"Charlesworth, Brian",The University of Edinburgh,gbr,748,Biomedical Research
+"Dickinson, Eric",University of Leeds,gbr,749,Physics & Astronomy
+"Fischl, Bruce",Massachusetts General Hospital,usa,750,Clinical Medicine
+"Miettinen, Markku",National Cancer Institute (NCI),usa,751,Clinical Medicine
+"Bennett, Charles H.",IBM Research,usa,752,Physics & Astronomy
+"Bhutta, Zulfiqar A.",Hospital for Sick Children University of Toronto,can,753,Clinical Medicine
+"Andreae, Meinrat O.",Max Planck Institute for Chemistry,deu,754,Earth & Environmental Sciences
+"Goodman, Robert",King's College London,gbr,755,Clinical Medicine
+"Flegal, Katherine M.",Stanford University School of Medicine,usa,756,Clinical Medicine
+"Cook, Deborah J.",McMaster University,can,757,Clinical Medicine
+"Hartl, F. Ulrich",Max-Planck-Institut f�r Biochemie,deu,758,Biomedical Research
+"Costerton, J. W.",University of Calgary,can,759,Biomedical Research
+"Dale, Anders M.","University of California, San Diego",usa,760,Clinical Medicine
+"Baldwin, Albert S.",The University of North Carolina at Chapel Hill,usa,761,Biomedical Research
+"Dahn, J. R.",Dalhousie University,can,762,Enabling & Strategic Technologies
+"Valiev, R. Z.",Ufa State Aviation Technical University,rus,763,Enabling & Strategic Technologies
+"Russell, James A.",Boston College,usa,764,Psychology & Cognitive Sciences
+"Breslow, Ronald",Columbia University,usa,765,Chemistry
+"Laurance, William",James Cook University,aus,766,Biology
+"Sawyers, Charles L.",David Geffen School of Medicine at UCLA,usa,767,Clinical Medicine
+"Vanhoutte, Paul M.",The University of Hong Kong,hkg,768,Clinical Medicine
+"Griffiths, Mark D.",Nottingham Trent University,gbr,769,Public Health & Health Services
+"Hoofnagle, Jay H.",National Institute of Diabetes and Digestive and Kidney Diseases (NIDDK),usa,770,Clinical Medicine
+"Mittler, Ron",University of Missouri,usa,771,Biology
+"Hernquist, Lars",Harvard-Smithsonian Center for Astrophysics,usa,772,Physics & Astronomy
+"Ren, Wei","University of California, Riverside",usa,773,Engineering
+"Murphy, Michael P.",MRC Mitochondrial Biology Unit,gbr,774,Biomedical Research
+"Dalakas, Marinos C.",Thomas Jefferson University,usa,775,Clinical Medicine
+"Wardle, J.",University College London,gbr,776,Clinical Medicine
+"Beenakker, C. W.J.",Lorentz Institute for Theoretical Physics,nld,777,Physics & Astronomy
+"Hunter, David J.",University of Oxford,gbr,778,Clinical Medicine
+"Pedrycz, Witold",University of Alberta,can,779,Information & Communication Technologies
+"Herrera, Francisco",Universidad de Granada,esp,780,Information & Communication Technologies
+"Fraser Stoddart, J.",Zhejiang University,chn,781,Chemistry
+"Auwerx, Johan",Ecole Polytechnique F�d�rale de Lausanne,che,782,Biomedical Research
+"Nicoll, Roger A.","University of California, San Francisco",usa,783,Clinical Medicine
+"Hosono, Hideo",Tokyo Institute of Technology,jpn,784,Physics & Astronomy
+"Holt, Robert D.",University of Florida,usa,785,Biology
+"Ohno, Hideo",Tohoku University,jpn,786,Physics & Astronomy
+"Gisin, Nicolas",Universit� de Gen�ve,che,787,Physics & Astronomy
+"Goldhaber, Samuel Z.",Dana-Farber/Brigham and Women's Cancer Center,,788,Clinical Medicine
+"Lippard, Stephen J.",Massachusetts Institute of Technology,usa,789,Chemistry
+"Patankar, Suhas V.",University of Minnesota Twin Cities,usa,790,Engineering
+"Olanow, C. Warren",Icahn School of Medicine at Mount Sinai,usa,791,Clinical Medicine
+"Decety, Jean","The Department of Psychology, The University of Chicago",usa,792,Clinical Medicine
+"Van Essen, David C.",Washington University School of Medicine in St. Louis,usa,793,Clinical Medicine
+"Canny, John","University of California, Berkeley",usa,794,Information & Communication Technologies
+"Sonenberg, Nahum",McGill Faculty of Medicine and Health Sciences,can,795,Biomedical Research
+"Botstein, David",Calico LLC,usa,796,Biomedical Research
+"Delley, Bernard",Paul Scherrer Institut,che,797,Physics & Astronomy
+"Lees, Andrew J.",Reta Lila Weston Institute of Neurological Studies,gbr,798,Clinical Medicine
+"Guralnik, Jack M.",University of Maryland School of Medicine,usa,799,Clinical Medicine
+"Tucker, Compton J.",NASA Goddard Space Flight Center,usa,800,Engineering
+"Moran, Nancy A.",The University of Texas at Austin,usa,801,Biomedical Research
+"Mattick, John S.",UNSW Sydney,aus,802,Biomedical Research
+"Holmgren, Arne",Karolinska Institutet,swe,803,Biomedical Research
+"Thompson, Simon G.",University of Cambridge,gbr,804,Clinical Medicine
+"Janeway, Charles A.",Yale School of Medicine,usa,805,Clinical Medicine
+"Bonventre, Joseph V.",Harvard Medical School,usa,806,Clinical Medicine
+"Russell, Thomas P.",University of Massachusetts Amherst,usa,807,Chemistry
+"Stillinger, Frank H.",Princeton University,usa,808,Physics & Astronomy
+"Anderson, Jeffrey L.",Intermountain Medical Center,usa,809,Clinical Medicine
+"Fries, James",Stanford University School of Medicine,usa,810,Clinical Medicine
+"Easton, Douglas F.",Department of Public Health and Primary Care,gbr,811,Clinical Medicine
+"Hyman, Bradley T.",Harvard Medical School,usa,812,Clinical Medicine
+"Han, Jiawei",University of Illinois Urbana-Champaign,usa,813,Information & Communication Technologies
+"Anderson, John Robert",Carnegie Mellon University,usa,814,Psychology & Cognitive Sciences
+"hayreh, sohan singh",University of Iowa Carver College of Medicine,usa,815,Clinical Medicine
+"Takeichi, Masatoshi",Riken,jpn,816,Biomedical Research
+"Cuijpers, Pim",Vrije Universiteit Amsterdam,nld,817,Clinical Medicine
+"Schiffrin, Ernesto L.",Lady Davis Institute for Medical Research,can,818,Clinical Medicine
+"Nigg, Erich A.","Biozentrum, Universit�t Basel",che,819,Biomedical Research
+"Balkwill, Frances R.",Barts and The London School of Medicine and Dentistry,gbr,820,Clinical Medicine
+"Mardis, Elaine R.",Nationwide Children�s Hospital,usa,821,Clinical Medicine
+"Suslick, Kenneth S.",University of Illinois Urbana-Champaign,usa,822,Chemistry
+"Baldocchi, Dennis","Department of Environmental Science, Policy, and Management",usa,823,Earth & Environmental Sciences
+"Balandin, Alexander A.","University of California, Riverside",usa,824,Physics & Astronomy
+"Chen, Guanrong",City University of Hong Kong,hkg,825,Engineering
+"Mckay, Gordon","Hamad Bin Khalifa University, College of Science and Engineering",qat,826,Engineering
+"Varma, Rajender S.",Univerzita Palack�ho v Olomouci,cze,827,Chemistry
+"Fisher, Michael E.","University of Maryland, College Park",usa,828,Physics & Astronomy
+"Shane, Scott",Weatherhead School of Management,usa,829,Economics & Business
+"Stice, Eric",Stanford University,usa,830,Clinical Medicine
+"Foa, Edna",University of Pennsylvania,,831,Clinical Medicine
+"Parrinello, Michele",Istituto Italiano di Tecnologia,ita,832,Physics & Astronomy
+"Logothetis, Nikos K.",The University of Manchester,gbr,833,Clinical Medicine
+"Drewnowski, Adam",University of Washington,usa,834,Biomedical Research
+"Friederici, Angela D.",Max Planck Institute for Human Cognitive and Brain Sciences,deu,835,Clinical Medicine
+"Liz-Marz�n, Luis M.","Centro de Investigaci�n Biom�dica en Red de Bioingenier�a, Biomateriales y Nanomedicina",esp,836,Enabling & Strategic Technologies
+"Barsoum, Michel W.",Drexel University,usa,837,Enabling & Strategic Technologies
+"Wiens, John J.",The University of Arizona,usa,838,Biology
+"Bj�rntorp, Per",G�teborgs Universitet,swe,839,Clinical Medicine
+"Lusis, Aldons J.",David Geffen School of Medicine at UCLA,usa,840,Biomedical Research
+"Dixon, Richard A.",University of North Texas,usa,841,Biology
+"Tinetti, Mary E.",Yale School of Medicine,usa,842,Clinical Medicine
+"L�scher, Wolfgang",Tier�rztliche Hochschule Hannover,deu,843,Clinical Medicine
+"Cross, L. Eric",Pennsylvania State University,usa,844,Physics & Astronomy
+"Deary, Ian J.",The University of Edinburgh,gbr,845,Clinical Medicine
+"Gottesman, Michael M.",National Cancer Institute (NCI),usa,846,Biomedical Research
+"Wallentin, Lars",Uppsala Universitet,swe,847,Clinical Medicine
+"Levitt, Michael",Stanford University,usa,848,Clinical Medicine
+"Lok, Anna S.F.",University of Michigan Medical School,usa,849,Clinical Medicine
+"Zanchetti, Alberto",Universit� degli Studi di Milano,ita,850,Clinical Medicine
+"Strogatz, Steven",Cornell University,usa,851,Physics & Astronomy
+"Tononi, Giulio",University of Wisconsin-Madison,usa,852,Clinical Medicine
+"Buchwald, Stephen L.",Massachusetts Institute of Technology,usa,853,Chemistry
+"El-Deiry, Wafik S.",The Warren Alpert Medical School,usa,854,Clinical Medicine
+"Rader, Daniel J.",University of Pennsylvania Perelman School of Medicine,usa,855,Clinical Medicine
+"Olah, George A.",University of Southern California,usa,856,Chemistry
+"Wu, Guoyao",Texas A&M University,usa,857,Biomedical Research
+"Stone, Gregg W.",Icahn School of Medicine at Mount Sinai,usa,858,Clinical Medicine
+"Yaksh, Tony L.",UC San Diego Department of Anesthesiology,usa,859,Clinical Medicine
+"Haldane, F. D.M.",Princeton University,usa,860,Physics & Astronomy
+"Rimm, Eric B.",Harvard T.H. Chan School of Public Health,usa,861,Clinical Medicine
+"Suo, Zhigang",Harvard John A. Paulson School of Engineering and Applied Sciences,usa,862,Physics & Astronomy
+"Granqvist, Claes G.",�ngstr�mlaboratoriet,swe,863,Physics & Astronomy
+"Astruc, Didier",Universit� de Bordeaux,fra,864,Chemistry
+"Antzelevitch, Charles",Masonic Medical Research Laboratory,usa,865,Clinical Medicine
+"Sun, Shouheng",Brown University,usa,866,Chemistry
+"Sackett, David",Kilgore S. Trout Research and Education Centre,can,867,Clinical Medicine
+"Wang, Shaobin",The University of Adelaide,aus,868,Chemistry
+"Nattel, Stanley",Institut de Cardiologie de Montreal,can,869,Clinical Medicine
+"Sanyal, Arun J.",Virginia Commonwealth University,,870,Clinical Medicine
+"Meyer, Thomas J.",The University of North Carolina at Chapel Hill,usa,871,Chemistry
+"Brennan, Murray F.",Memorial Sloan-Kettering Cancer Center,usa,872,Clinical Medicine
+"List, Benjamin",Max Planck Institute for Coal Research,deu,873,Chemistry
+"Tyler, Tom R.",Yale University,usa,874,Psychology & Cognitive Sciences
+"Krieg, Arthur M.","Checkmate Pharmaceuticals, Inc.",usa,875,Clinical Medicine
+"Wiberg, Kenneth B.",Yale University,usa,876,Chemistry
+"Cahn, John W.",National Institute of Standards and Technology,usa,877,Enabling & Strategic Technologies
+"Eisenberg, David S.","University of California, Los Angeles",usa,878,Biomedical Research
+"Pfaffl, Michael W.","Wissenschaftszentrum Weihenstephan f�r Ern�hrung, Landnutzung und Umwelt",deu,879,Clinical Medicine
+"Mendel, Jerry M.",University of Southern California,usa,880,Information & Communication Technologies
+"Drevets, Wayne C.",Janssen Research & Development,usa,881,Clinical Medicine
+"Paul, Donald R.",The University of Texas at Austin,usa,882,Chemistry
+"Rosner, Bernard",Harvard T.H. Chan School of Public Health,usa,883,Clinical Medicine
+"Greenhalgh, Trisha",University of Oxford Medical Sciences Division,gbr,884,Clinical Medicine
+"Legendre, Pierre",University of Montreal,can,885,Biology
+"Gladman, Dafna D.",University of Toronto,can,886,Clinical Medicine
+"Young, Richard A.",Whitehead Institute,usa,887,Biomedical Research
+"Schatz, George C.",Northwestern University,usa,888,Physics & Astronomy
+"Fahn, Stanley",Columbia University Irving Medical Center,usa,889,Clinical Medicine
+"Ben-Ari, Yehezkel",Campus scientifique de Luminy,fra,890,Clinical Medicine
+"Bartlett, John G.",Oregon Health & Science University,usa,891,Clinical Medicine
+"Corkum, P. B.",University of Ottawa,can,892,Physics & Astronomy
+"Liu, Yong Jun",The First Bethune Hospital of Jilin University,chn,893,Clinical Medicine
+"Gustafsson, Jan Ake",University of Houston,usa,894,Clinical Medicine
+"Nasmyth, Kim",University of Oxford Medical Sciences Division,gbr,895,Biomedical Research
+"Dang, Chi V.",The Wistar Institute,usa,896,Biomedical Research
+"Neurath, Markus F.",Universit�tsklinikum Erlangen,deu,897,Clinical Medicine
+"Raghavachari, Krishnan",Indiana University Bloomington,usa,898,Physics & Astronomy
+"Sancar, Aziz",UNC School of Medicine,,899,Biomedical Research
+"Girshick, Ross",Facebook Research,usa,900,Information & Communication Technologies
+"Hameed, B. H.",Qatar University,qat,901,Engineering
+"Canfield, Donald E.",Syddansk Universitet,dnk,902,Earth & Environmental Sciences
+"Mitchison, Timothy",Harvard Medical School,usa,903,Biomedical Research
+"Pollard, Thomas D.",Yale University,,904,Biomedical Research
+"Langdon, T. G.",University of Southampton,gbr,905,Enabling & Strategic Technologies
+"Sunstein, Cass R.",Harvard University,usa,906,Social Sciences
+"Romagnani, Sergio",Universit� degli Studi di Firenze,ita,907,Clinical Medicine
+"Waxman, Stephen G.",Yale School of Medicine,usa,908,Clinical Medicine
+"Falkowski, Paul G.",Department of Marine and Coastal Sciences,usa,909,Biology
+"Ciechanover, Aaron",Ruth & Bruce Rappaport Faculty of Medicine,isr,910,Biomedical Research
+"Jackson, Stephen P.",Wellcome Trust/ Cancer Research UK Gurdon Institute,gbr,911,Biomedical Research
+"Kanehisa, Minoru",Institute for Chemical Research,jpn,912,Biomedical Research
+"Pashley, D. H.",Augusta University,usa,913,Clinical Medicine
+"Rabiner, Lawrence R.",Rutgers University�New Brunswick,usa,914,Information & Communication Technologies
+"Diener, Hans Christoph",Medizinischen Fakult�t,deu,915,Clinical Medicine
+"Cohen, Marvin L.",Lawrence Berkeley National Laboratory,usa,916,Physics & Astronomy
+"Zur Hausen, Harald",German Cancer Research Center,deu,917,Clinical Medicine
+"Ebbesen, Thomas W.",Universit� de Strasbourg,fra,918,Physics & Astronomy
+"Fujita, Makoto",The University of Tokyo,jpn,919,Chemistry
+"Russell, Philip St J.",Max Planck Institute for the Science of Light,deu,920,Enabling & Strategic Technologies
+"Brooks, David J.",Newcastle University,gbr,921,Clinical Medicine
+"Stein, Dan J.",University of Cape Town,zaf,922,Clinical Medicine
+"Costanza, Robert",University College London,gbr,923,Biology
+"Rubinsztein, David C.",Cambridge Institute for Medical Research,gbr,924,Biomedical Research
+"Cohn, Jay N.",University of Minnesota Medical School,usa,925,Clinical Medicine
+"Yu, Jiaguo",China University of Geosciences,chn,926,Enabling & Strategic Technologies
+"Sirringhaus, Henning",Department of Physics,gbr,927,Physics & Astronomy
+"Doll, R.",Clinical Trial Service Unit and Epidemiological Studies Unit,gbr,928,Clinical Medicine
+"Damour, Thibault",Institut des Hautes �tudes Scientifiques,fra,929,Physics & Astronomy
+"Shneiderman, Ben","University of Maryland, College Park",usa,930,Information & Communication Technologies
+"Colonna, Marco",Washington University School of Medicine in St. Louis,usa,931,Clinical Medicine
+"Schaufeli, Wilmar B.",Universiteit Utrecht,nld,932,Economics & Business
+"Crystal, Ronald G.",Weill Cornell Medicine,usa,933,Clinical Medicine
+"Kramer, Michael",School of Medicine,can,934,Clinical Medicine
+"Vousden, Karen H.",The Francis Crick Institute,gbr,935,Biomedical Research
+"Blei, David",Columbia University,usa,936,Information & Communication Technologies
+"Roden, Dan M.",Vanderbilt University Medical Center,usa,937,Clinical Medicine
+"Miller, Danny",HEC Montr�al,can,938,Economics & Business
+"Hubbell, Jeffrey A.",The University of Chicago,usa,939,Engineering
+"Welton, Tom",Imperial College London,gbr,940,Chemistry
+"Norman, Geoffrey R.",McMaster University,can,941,Clinical Medicine
+"Hayashi, Tamio",National Tsing Hua University,twn,942,Chemistry
+"Bousquet, Jean",Centre Hospitalier Universitaire de Montpellier,fra,943,Clinical Medicine
+"Vandenbroucke, Jan P.",Aarhus Universitet,dnk,944,Clinical Medicine
+"Schwartz, Peter J.",IRCCS Istituto Auxologico Italiano,ita,945,Clinical Medicine
+"Evans, David A.",Harvard University,usa,946,Chemistry
+"Kerbel, Robert S.",University of Toronto,can,947,Clinical Medicine
+"Ekman, P.","University of California, San Francisco",usa,948,Psychology & Cognitive Sciences
+"Pyykk�, Pekka",Helsingin Yliopisto,fin,949,Physics & Astronomy
+"Sporn, Michael B.",Geisel School of Medicine at Dartmouth,usa,950,Clinical Medicine
+"Finkelhor, David",University System of New Hampshire,usa,951,Psychology & Cognitive Sciences
+"M�llen, Klaus",Max Planck Institute for Polymer Research,deu,952,Chemistry
+"Davis, Michael",Emory University School of Medicine,usa,953,Clinical Medicine
+"Koren, Gideon",Ariel University,isr,954,Clinical Medicine
+"Ley, Klaus",Department of Bioengineering,usa,955,Clinical Medicine
+"Banks, William A.",University of Washington School of Medicine,usa,956,Clinical Medicine
+"Braak, Heiko",Universit�t Ulm,deu,957,Clinical Medicine
+"Hankey, Graeme J.",UWA Medical School,aus,958,Clinical Medicine
+"Goldstein, Joseph L.",UT Southwestern Medical School,usa,959,Biomedical Research
+"Bishop, Dorothy V.M.",University of Oxford Medical Sciences Division,gbr,960,Psychology & Cognitive Sciences
+"Walsh, Patrick C.",The Johns Hopkins Hospital,usa,961,Clinical Medicine
+"Warlow, Charles P.",University of Oxford Medical Sciences Division,gbr,962,Clinical Medicine
+"Shevach, Ethan M.",National Institute of Allergy and Infectious Diseases (NIAID),usa,963,Clinical Medicine
+"Zhang, Hua",City University of Hong Kong,hkg,964,Enabling & Strategic Technologies
+"Whiteside, Theresa",University of Pittsburgh School of Medicine,usa,965,Clinical Medicine
+"Sporns, Olaf",Indiana University Bloomington,usa,966,Clinical Medicine
+"Fu, Gregory C.",California Institute of Technology,usa,967,Chemistry
+"Hutmacher, D. W.",Queensland University of Technology,aus,968,Engineering
+"Shay, Jerry W.",UT Southwestern Medical Center,usa,969,Clinical Medicine
+"Fabian, A. C.",Institute of Astronomy,gbr,970,Physics & Astronomy
+"Deisseroth, Karl",Stanford University,usa,971,Clinical Medicine
+"Rothwell, John C.",UCL Queen Square Institute of Neurology,gbr,972,Clinical Medicine
+"Hewitt, Godfrey",University of East Anglia,gbr,973,Biology
+"Molkentin, Jeffery D.",University of Cincinnati College of Medicine,usa,974,Clinical Medicine
+"Bluestone, Jeffrey A.","University of California, San Francisco",usa,975,Clinical Medicine
+"Fiske, Susan T.",Princeton University,usa,976,Psychology & Cognitive Sciences
+"Das Sarma, S.","University of Maryland, College Park",usa,977,Physics & Astronomy
+"Boneh, Dan",Stanford University,usa,978,Information & Communication Technologies
+"Moskowitz, Michael A.",Massachusetts General Hospital,usa,979,Clinical Medicine
+"Emery, Paul","University of Leeds, School of Medicine",gbr,980,Clinical Medicine
+"White, H. D.",Auckland City Hospital,nzl,981,Clinical Medicine
+"Ertl, Gerhard",Fritz Haber Institute of the Max Planck Society,deu,982,Physics & Astronomy
+"Neher, Erwin",Georg-August-Universit�t G�ttingen,deu,983,Clinical Medicine
+"Audretsch, David B.",Indiana University Bloomington,usa,984,Economics & Business
+"W�thrich, Kurt",Scripps Research Institute,usa,985,Biomedical Research
+"Issa, Jean Pierre J.",Coriell Institute for Medical Research,usa,986,Clinical Medicine
+"Jones, Phil",University of East Anglia,gbr,987,Earth & Environmental Sciences
+"Hyeon, Taeghwan",Seoul National University,kor,988,Enabling & Strategic Technologies
+"Bell, Alexis T.","University of California, Berkeley",,989,Chemistry
+"Schrier, Robert",University of Colorado Anschutz Medical Campus,usa,990,Clinical Medicine
+"Rice-Evans, Catherine",King's College London,gbr,991,Biomedical Research
+"Saaty, Thomas L.",Joseph M. Katz Graduate School of Business,usa,992,Information & Communication Technologies
+"Moskovits, Martin","University of California, Santa Barbara",usa,993,Physics & Astronomy
+"Graybiel, Ann M.",Massachusetts Institute of Technology,usa,994,Clinical Medicine
+"Berry, M. V.",University of Bristol,gbr,995,Physics & Astronomy
+"Corrigan, Patrick W.",Illinois Institute of Technology,usa,996,Clinical Medicine
+"Gillberg, Christopher",Sahlgrenska Akademin,swe,997,Clinical Medicine
+"Meister, Alton",Weill Cornell Medicine,usa,998,Biomedical Research
+"Dunbar, Robin I.M.",University of Oxford Medical Sciences Division,gbr,999,Psychology & Cognitive Sciences
+"Blagosklonny, Mikhail V.",Roswell Park Cancer Institute,usa,"1,000",Clinical Medicine
